@@ -1,0 +1,62 @@
+# Spring Boot
+target/
+build/
+
+# IDE/Editor
+.idea/
+.vscode/
+
+# Logs
+logs/
+
+# Gradle
+gradle/
+*.log
+*.lock
+!gradle/wrapper/gradle-wrapper.jar
+.gradle/
+admin/.gradle/
+admin/build/
+
+# Maven
+*.iml
+*.ipr
+*.iws
+.idea/
+.idea_modules/
+out/
+gen/
+bin/
+*.class
+*.jar
+*.war
+*.ear
+
+# Compiled bytecode
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.classpath
+.project
+.settings/
+.factorypath
+
+# Intellij
+*.iml
+*.ipr
+*.iws
+*.jar
+*.war
+*.ear
+*.log
+.idea
+.idea_modules
+*.classpath
+*.project
+*.settings
+*.factorypath

@@ -1,0 +1,4 @@
+rootProject.name = 'admin'
+
+include 'common-module'
+project(':common-module').projectDir = new File(settingsDir, '../common-module')
